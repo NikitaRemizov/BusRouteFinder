@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BusRoute\BusRoutesFinder.csproj" />
+    <ProjectReference Include="..\BusRoutesFinder\BusRoutesFinder.csproj" />
   </ItemGroup>
 
 </Project>
